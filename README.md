@@ -7,16 +7,18 @@ Então um arquivo de entrada teria duas duas linhas: uma para cada numero e deve
 O seu respectivo arquivo de saida, output_1.txt, deve ter uma linha com a soma dos dois valores descritos no arquivo input_1.txt.
 Por exemplo:
 
-a) Arquivo de entrada input_1.txt
+a) 
+Arquivo de entrada input_1.txt
 2
 5
-- Arquivo de saida output_1.txt
+Arquivo de saida output_1.txt
 7
 
-b) Arquivo de entrada input_2.txt
+b) 
+Arquivo de entrada input_2.txt
 7
 6
-- Arquivo de saida output_2.txt
+Arquivo de saida output_2.txt
 13
 
 Obs.: as saídas são comparadas caracter a caracter, portanto, espaços a mais ou a menos em uma string acusará falha no teste.
@@ -27,5 +29,3 @@ Resumo do modo de usar:
 3) Dentro desta pasta, crie uma subpasta chamada bin
 4) Dentro da subpasta bin, crie uma subpasta chamada Debug
 5) Na pasta raiz do autotest, execute o seguinte comando DOS: autotest nome_programa_a_ser_testado
-
-
