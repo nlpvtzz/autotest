@@ -7,14 +7,14 @@ Então um arquivo de entrada teria duas duas linhas: uma para cada numero e deve
 O seu respectivo arquivo de saida, output_1.txt, deve ter uma linha com a soma dos dois valores descritos no arquivo input_1.txt.
 Por exemplo:
 
-a) 
+a)
 Arquivo de entrada input_1.txt
 2
 5
 Arquivo de saida output_1.txt
 7
 
-b) 
+b)
 Arquivo de entrada input_2.txt
 7
 6
